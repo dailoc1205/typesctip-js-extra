@@ -27,3 +27,4 @@ person2.showInfo();
 
 // Demo Bạn hãy tạo ra 1 số bạn Student trong lớp
 var student1 = new Student(1,"Dai loc", "HCM", "Railway82", 2);
+var student2 = new Student(2, "Phuc","HCM","Railway82",3);
